@@ -1,0 +1,14 @@
+.card {
+    display: inline-flex;
+    margin-right: 0.5rem;
+}
+
+img {
+    height: 19rem;
+    width: 17rem;
+}
+
+h1,
+ul {
+    text-align: center;
+}
